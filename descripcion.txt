@@ -1,0 +1,43 @@
+Precio: Precio de alquiler la propiedad.
+Direccion: Dirección de la propiedad.
+Actualizado: Fecha en la que se actualizó la lista.
+Gastos_Comunes: Gastos comunes asociados con la propiedad.
+Piso: Número de piso de la propiedad.
+Apartamentos_por_Pisos: Número de apartamentos por piso en el edificio.
+Cantidad_de_Pisos: Número total de pisos en el edificio.
+Tipo_de_Propiedad: Tipo de propiedad (por ejemplo, Apartamento, Casa, Oficina).
+Zona: Ubicación o zona donde se encuentra la propiedad.
+Estado: Condición o estado de la propiedad (por ejemplo, Buen estado, Excelente estado).
+Disposicion: Distribución o disposición de la propiedad (por ejemplo, Al frente, Contrafrente, Interior).
+Banos: Número de baños en la propiedad.
+Habitaciones: Número de habitaciones o dormitorios en la propiedad.
+M2_edificados: Metros cuadrados construidos de la propiedad.
+M2_de_terraza: Metros cuadrados de espacio de terraza, si corresponde.
+M2_del_terreno: Metros cuadrados totales de terreno, si corresponde.
+Ano_de_Construccion: Año de construcción de la propiedad. NOTA: Cuando no se tiene el dato el valor es 0.
+Dormitorios: Número de dormitorios en la propiedad.
+Garajes: Número de plazas de aparcamiento o garajes.
+Plantas: Número de plantas o pisos en la propiedad.
+Vista_al_mar: Si la propiedad tiene vista al mar (Verdadero/Falso).
+Vivienda_Social: Si la propiedad está designada como vivienda social (Verdadero/Falso).
+Salon: Sala de estar en la propiedad.
+Parrillero: Área de parrilla en la propiedad.
+Patio: Área de patio en la propiedad.
+Balcon: Balcón en la propiedad.
+WiFi: Disponibilidad de WiFi en la propiedad.
+Gas_Caneria: Conexión a gas por cañería en la propiedad.
+Barbacoa: Instalaciones de barbacoa en la propiedad.
+Losa_Radiante: Calefacción por losa radiante en la propiedad.
+Mascota: Propiedad apta para mascotas (Verdadero/Falso).
+Playroom: Sala de juegos o área recreativa en la propiedad.
+Jardin: Área de jardín en la propiedad.
+Calefaccion: Sistema de calefacción en la propiedad.
+Amueblado: Si la propiedad está amueblada (Verdadero/Falso).
+Deposito: Área de almacenamiento o depósito en la propiedad.
+Aire_Acondicionado: Aire acondicionado en la propiedad.
+GYM: Instalaciones de gimnasio en la propiedad.
+Duplex: Propiedad dúplex (Verdadero/Falso).
+Piscina: Piscina en la propiedad.
+Closet: Espacio de armario o guardarropa en la propiedad.
+Solarium: Área de solárium en la propiedad.
+Cochera: Espacio de estacionamiento.
