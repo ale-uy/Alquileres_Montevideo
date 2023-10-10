@@ -41,3 +41,4 @@ Piscina: Piscina en la propiedad.
 Closet: Espacio de armario o guardarropa en la propiedad.
 Solarium: Área de solárium en la propiedad.
 Cochera: Espacio de estacionamiento.
+Descripcion: Descripción que dá la persona propietaria del inmueble en alquiler.
